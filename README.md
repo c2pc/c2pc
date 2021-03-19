@@ -2,4 +2,4 @@
 
 - 🚀 <a href="https://t.me/chincharovpc"  target="blank">Telegram Channel</a>
 
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=c2pc&show_icons=true&hide_title=true" alt="c2pc" /> </p>
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=c2pc&show_icons=true&hide_title=true&count_private=true" alt="c2pc" /> </p>
